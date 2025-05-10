@@ -11,6 +11,17 @@ Please note that this project was originally developed for personal use. At the 
 
 Most comments—if present—are written in German and have not yet been translated into English. I do plan to improve the code structure and add proper documentation at some point, but realistically, this won't happen in the near future.
 
+## About the Executables
+
+Since this is my very first attempt at building standalone executables, the macOS and Windows versions provided here are somewhat basic and may lack features like custom icons.
+
+Please note the following:
+- **macOS**: The app may take up to a full minute to launch after being opened. This is a known issue—just wait patiently and it should start eventually.
+- **Windows**: The app should launch immediately.
+- On both platforms, your operating system may flag the application as potentially unsafe. This is expected behavior when running unsigned applications. You may need to confirm that the app is safe to run.
+
+If you don't feel comfortable running the executables, you can alternatively run the project directly from the source code using Python and Conda. A `environment.yml` file is included to help you set up the required environment. Since all the source code is included in this repository, you’re free to review it yourself to ensure nothing harmful is present.
+
 ## Feedback
 
 If you encounter any bugs or issues, feel free to open an issue or reach out. Any feedback is welcome!
