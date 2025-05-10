@@ -2,6 +2,14 @@
 
 This repository contains both the source code and precompiled executables for macOS and Windows.
 
+## Downloads
+
+- **Windows**  
+  [Download via Google Drive (~90 MB)](https://drive.google.com/file/d/1d_3T6bs0Xa7yQJuRNLLMXVvsepyLbVTF/view?usp=drive_link)
+
+- **macOS**  
+  [Download via Google Drive (~150 MB)](https://drive.google.com/file/d/19cQYu5khd-j_O_bju6LvLTTpyX4xhYHY/view?usp=drive_link)
+
 A detailed explanation of how to use the programs can be found in the following YouTube video:  
 [Watch on YouTube](<insert-your-video-link-here>)
 
