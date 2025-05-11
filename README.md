@@ -2,6 +2,9 @@
 
 This repository contains both the source code and precompiled executables for macOS and Windows.
 
+# Discord Server
+Join the Discord Server https://discord.gg/2E8zpNCfHh
+
 ## Downloads
 
 - **Windows**  
