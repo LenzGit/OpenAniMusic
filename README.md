@@ -14,7 +14,7 @@ Join the Discord Server https://discord.gg/2E8zpNCfHh
   [Download via Google Drive (~150 MB)](https://drive.google.com/file/d/19cQYu5khd-j_O_bju6LvLTTpyX4xhYHY/view?usp=drive_link)
 
 A detailed explanation of how to use the programs can be found in the following YouTube video:  
-[Watch on YouTube](<insert-your-video-link-here>)
+[Watch on YouTube](<https://youtu.be/dINl3WnhAiM>)
 
 ## Disclaimer
 
